@@ -1,3 +1,5 @@
+// This game is played from the browser console. UI has not yet been added to it.
+
 let playerScore = 0;
 let computerScore = 0;
 
